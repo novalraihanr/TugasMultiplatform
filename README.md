@@ -8,4 +8,4 @@
 
 ## Screenshot
 ### Tugas 1
-![Screenshot Tugas 1](image/Tugas_1.png)
+<img src="image/Tugas_1.png" width="250">
